@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ryansoup001
 - 👀 I’m interested in learning more that sourounds the field of computer science
 - 🌱 I’m currently in my second semester of college Learning C++
-- 📫 How to reach me .. email: rrrstephens1212@gmail.com
+- 📫 My email is rrrstephens1212@gmail.com
