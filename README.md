@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryansoup001
-- 👀 I’m interested in learning more that surrounds the field of computer science
-- 🌱 I’m currently learning API
-- 📫 My email is rrrstephens1212@gmail.com
+- 👋 Hi, I’m Ryan Stephens
+- 👀 I’m a Computer Science Major at the University of Houston - Main Campus.
+- 🌱 I’m currently learning API and then plan to look over React and React Native.
+- 📫 My email is rrrstephens1212@gmail.com for any business inquires.
